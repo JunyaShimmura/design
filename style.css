@@ -1,0 +1,96 @@
+
+html,body{
+    width: auto;
+    padding: 0%;
+}
+
+
+header{
+    width: 100%;
+    color: white;
+    background-image: url(img/fv-bgi@2x.jpg);
+    background-size: contain;
+    height: 700px;
+}
+.header-section{
+}
+.header-logo{
+    font-size: 20px;
+}
+
+.nav-list{
+    display: flex;
+    font-size: 30px;
+}
+li{
+    list-style: none;
+    padding: 60px;
+    color: white;
+}
+.main-title{
+    font-size: 90px;
+    text-align: center;
+    color: white;
+    margin: 50px;
+}
+.about-containor{
+    margin: 0;
+    width: 100%;
+    text-align: center;
+    
+}
+.about-title {
+    font-size: 50px;
+}
+
+.service{
+    width: 100%;
+}
+.row{
+    display: flex;
+}
+.colum{
+    flex: 1;
+    padding: 10px;
+}
+.service img{
+    width: 85%;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+}
+
+
+h4, h5{
+    font-size: 30px;
+}
+.news-containor{
+    margin-top: 200px;
+    width: 100%;
+}
+
+.news row{
+    display: flex;
+}
+.news colum{
+    flex: 1;
+}
+.news img{
+    width: 95%;
+}
+.contact-containor{
+    width: 100%;
+    text-align: center;
+}
+label{
+    font-size: 20px;
+    text-align: center;
+ 
+}
+input{
+    
+}
+.form-part{
+    padding: 10px;
+}
